@@ -1,4 +1,4 @@
-package com.example.t2s.ui.slideshow
+package com.sonne.t2s.ui.slideshow
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

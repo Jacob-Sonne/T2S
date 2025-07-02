@@ -1,4 +1,4 @@
-package com.example.t2s
+package com.sonne.t2s
 
 import android.os.Bundle
 import android.view.Menu
@@ -11,7 +11,7 @@ import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
 import androidx.drawerlayout.widget.DrawerLayout
 import androidx.appcompat.app.AppCompatActivity
-import com.example.t2s.databinding.ActivityMainBinding
+import com.sonne.t2s.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

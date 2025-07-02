@@ -1,4 +1,4 @@
-package com.example.t2s
+package com.sonne.t2s
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
