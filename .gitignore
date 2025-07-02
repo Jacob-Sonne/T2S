@@ -1,6 +1,10 @@
 *.iml
 .gradle
 /local.properties
+
+# Ignore all IDE project files
+/.idea/
+
 /.idea/caches
 /.idea/libraries
 /.idea/modules.xml
